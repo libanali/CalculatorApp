@@ -1,0 +1,15 @@
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/bin/Debug/netstandard2.0/CalculatorApp.deps.json
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/bin/Debug/netstandard2.0/CalculatorApp.dll
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/bin/Debug/netstandard2.0/ref/CalculatorApp.dll
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/bin/Debug/netstandard2.0/CalculatorApp.pdb
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/CalculatorApp.csproj.AssemblyReference.cache
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/CalculatorApp.AssemblyInfo.cs
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/CalculatorApp.dll
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/ref/CalculatorApp.dll
+/Users/libanali/Desktop/CalculatorApp/CalculatorApp/obj/Debug/netstandard2.0/CalculatorApp.pdb
